@@ -14,3 +14,4 @@ An ideal beginner's project, in fact.
 - `dual-attenuverter-mainboard` - schematic for the main control board.
 - `dualverter-daughterboard.xlsx` - BOM (Bill Of Materials) for the daughterboard.
 - `dualverter-front.xlsx` - BOM for the control board.
+- `2hp-dualverter.dxf` and `2hp-dualverter.fpd` - panel files in AutoCAD DXF and Schaeffer FPD format (respectively)
